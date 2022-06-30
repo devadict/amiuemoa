@@ -1,0 +1,35 @@
+{
+    "title": "Gestion de portefeuille",
+    "offers": [
+        {
+            "id": 1,
+            "pack": "Pack Junior",
+            "dollarmin": "800$",
+            "dollarmax": "8000$",
+            "cfamin": "520 000 FCFA",
+            "cfamax": "5 200 000FCFA",
+            "taux": "6%",
+            "ROI annuel": "72%"
+        },
+        {
+            "id": 2,
+            "pack": "Pack Senior",
+            "dollarmin": "10 000$",
+            "dollarmax": "50 000$",
+            "cfamin": "6 500 000 FCFA",
+            "cfamax": "32 500 000FCFA",
+            "taux": "8%",
+            "ROI annuel": "96%"
+        },
+        {
+            "id": 3,
+            "pack": "Pack Master",
+            "dollarmin": "60 000$",
+            "dollarmax": "100 000$",
+            "cfamin": "39 000 000 FCFA",
+            "cfamax": "65 000 000FCFA",
+            "taux": "10%",
+            "ROI annuel": "120%"
+        }
+    ]
+}
