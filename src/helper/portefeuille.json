@@ -4,10 +4,8 @@
         {
             "id": 1,
             "pack": "Pack Junior",
-            "dollarmin": "800$",
-            "dollarmax": "8000$",
-            "cfamin": "520 000 FCFA",
-            "cfamax": "5 200 000FCFA",
+            "dollar": "800$ - 8000$",
+            "cfa": "520 000 FCFA - 5 200 000FCFA",
             "taux": "6%",
             "roi": "72%",
             "avantages": "Aucun avantage n'est associé à ce pack. Souscrivez au moins à un Pack senior pour un voyage gratuit à Dubai et d'autres surprises encore."
@@ -16,10 +14,8 @@
         {
             "id": 2,
             "pack": "Pack Senior",
-            "dollarmin": "10 000$",
-            "dollarmax": "50 000$",
-            "cfamin": "6 500 000 FCFA",
-            "cfamax": "32 500 000FCFA",
+            "dollar": "10 000$ - 50 000$",
+            "cfa": "6 500 000 FCFA - 32 500 000FCFA",
             "taux": "8%",
             "roi": "96%",
             "avantages": "Vous obtenez un voyage à Dubai avec 7 jours de logements dans un hotel 5 étoiles."
@@ -28,12 +24,10 @@
         {
             "id": 3,
             "pack": "Pack Master",
-            "dollarmin": "60 000$",
-            "dollarmax": "100 000$",
-            "cfamin": "39 000 000 FCFA",
-            "cfamax": "65 000 000FCFA",
+            "dollar": "60 000$ - 100 000$",
+            "cfa": "39 000 000 FCFA - 65 000 000FCFA",
             "taux": "10%",
-            "ROI annuel": "120%",
+            "roi": "120%",
             "avantages": "7 jours de logement, logement dans un hôtel 5 étoiles, Billet d'avoion aller-retour, assuré."
         }
     ]
