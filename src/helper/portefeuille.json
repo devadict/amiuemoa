@@ -9,7 +9,9 @@
             "cfamin": "520 000 FCFA",
             "cfamax": "5 200 000FCFA",
             "taux": "6%",
-            "ROI annuel": "72%"
+            "roi": "72%",
+            "avantages": "Aucun avantage n'est associé à ce pack. Souscrivez au moins à un Pack senior pour un voyage gratuit à Dubai et d'autres surprises encore."
+            
         },
         {
             "id": 2,
@@ -19,7 +21,9 @@
             "cfamin": "6 500 000 FCFA",
             "cfamax": "32 500 000FCFA",
             "taux": "8%",
-            "ROI annuel": "96%"
+            "roi": "96%",
+            "avantages": "Vous obtenez un voyage à Dubai avec 7 jours de logements dans un hotel 5 étoiles."
+
         },
         {
             "id": 3,
@@ -29,7 +33,8 @@
             "cfamin": "39 000 000 FCFA",
             "cfamax": "65 000 000FCFA",
             "taux": "10%",
-            "ROI annuel": "120%"
+            "ROI annuel": "120%",
+            "avantages": "7 jours de logement, logement dans un hôtel 5 étoiles, Billet d'avoion aller-retour, assuré."
         }
     ]
 }

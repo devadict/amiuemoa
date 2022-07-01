@@ -10,11 +10,13 @@
         <div class="card h-100">
           <div class="card-body d-flex flex-column justify-content-between p-4">
             <div class="mx-auto">
-              <h5 class="text-uppercase fw-bold">PACK JUNIOR</h5>
-              <h5 class="display-6 fw-bold">800$ - 8 000$</h5>
-              <h6 class="display-6 fw-bold text-muted">
-                520 000FCFA - 5 200 000FCFA
-              </h6>
+              <div>
+                <h5 class="text-uppercase fw-bold">PACK JUNIOR</h5>
+                <h5 class="display-6 fw-bold">60 000$ - 100 000$</h5>
+                <h6 class="display-6 fw-bold text-muted">
+                  39 000 000FCFA - 65 000 000FCFA
+                </h6>
+              </div>
               <hr />
               <ul class="list-unstyled">
                 <li class="d-flex mb-2">
