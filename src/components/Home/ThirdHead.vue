@@ -55,7 +55,6 @@
                 </ul>
               </div>
               <b-button v-b-modal.modal-1 class="my-2">Avantages</b-button>
-              <!-- {{ modalId(off.id) }} -->
               <b-button v-b-modal.modal-2>Souscrire</b-button>
 
               <b-modal id="modal-1" title="BootstrapVue">
@@ -83,11 +82,6 @@ export default {
   },
   created() {
     this.offers = this.port.offers;
-  },
-  computed: {
-    modalId(id) {
-      return `modal-${id}`;
-    },
   },
 };
 </script>
