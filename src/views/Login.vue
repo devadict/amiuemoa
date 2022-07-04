@@ -81,7 +81,7 @@
                     >
                   </div>
                   <div class="text-center">
-                    <b-button class="small">Create an Account!</b-button>
+                    <b-button to="/register" class="small">Create an Account!</b-button>
                   </div>
                 </div>
               </div>
