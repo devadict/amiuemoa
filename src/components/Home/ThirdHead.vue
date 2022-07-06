@@ -54,10 +54,12 @@
                   </li>
                 </ul>
               </div>
-              <b-button :v-b-modal="off.id" @click="toggleModal" class="my-2">Avantages</b-button>
-              <b-button v-b-modal.modal-2>Souscrire</b-button>
+              <b-button v-b-modal="`${off.id}`" class="my-2"
+                >Avantages</b-button
+              >
+              <b-button :v-b-modal="`${off.id}`">Souscrire</b-button>
 
-              <b-modal :id="off.id" title="BootstrapVue">
+              <b-modal :id="`${off.id}`" title="BootstrapVue">
                 <p class="my-4">{{ off.avantages }}</p>
               </b-modal>
               <b-modal id="modal-2" title="BootstrapVue">
@@ -83,5 +85,6 @@ export default {
   created() {
     this.offers = this.port.offers;
   },
+  methods: {},
 };
 </script>
